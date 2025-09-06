@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nicps-git/prova/issues"
   },
-  "homepage": "https://github.com/nicps-git/prova#readme"
+  "homepage": "https://github.com/nicps-git/prova#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
 }
